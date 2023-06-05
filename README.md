@@ -1,5 +1,5 @@
 Jupyter notebook for carrying out the following steps on the Bike Sharing data available from capitalbikeshare:
- 1. **Exploratory Data Analysis**: explore correlations among variables, various influencing factors for the bike count
+ 1. **Exploratory Data Analysis**: explore correlations among variables, and relationship between various factors influencing the bike-share count
 
  1. **Feature Engineering**: get rid of redundant features and transform the features
 
